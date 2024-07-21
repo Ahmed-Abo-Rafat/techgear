@@ -1,6 +1,6 @@
 # Techgear
 
-Techgear is an application responsipe to to show iformation about metaverse and how the metaverse change the world.
+Techgear is an application responsiple to show information about metaverse and show to you how the metaverse change the world by using bootstrap library. it is helpme me to build more componet like nice hero section .
 
 <br>
 <br>
